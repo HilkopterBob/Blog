@@ -12,8 +12,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 draft: false
 ---
 
-# Welcome 
-to my webblog! My name is *Nick* and i'm an network specialist for service interation and administration!
+My name is _Nick_ and i'm an network specialist for service interation and administration!
 
 I started this blog like every other blogger - to write about the things i like, know and i'm interrested in, for exampe my homelab, kubernetes and general linux stuff.
 
