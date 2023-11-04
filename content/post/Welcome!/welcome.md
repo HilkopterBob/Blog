@@ -1,13 +1,13 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
+title: Welcome
+description: ... to my Webblog!
+slug: welcome-post
 date: 2023-04-11 20:19:00
 image: cover.jpg
 categories:
-    - Example Category
+    - Orga
 tags:
-    - Example Tag
+    - Welcome
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 draft: false
 ---
